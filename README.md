@@ -1,5 +1,9 @@
 # 💫 About Me:
-Cybersecurity professional specializing in OSINT, penetration testing, and digital forensics<br>Passionate about uncovering vulnerabilities and combating misinformation<br>Experienced in cybercrime investigations and secure system design<br>Builder of AI, security, and AR/VR-based projects<br>Always exploring emerging threats and technologies
+Cybersecurity enthusiast focused on OSINT, penetration testing, and digital forensics  
+Breaking down real-world threats, vulnerabilities, and misinformation  
+Experience in cybercrime investigations and secure system design  
+Building AI-powered tools, MVP products, and AR/VR projects  
+Speaker, researcher, and continuous learner in the evolving cyber landscape  
 
 
 ## 🌐 Socials:
@@ -12,14 +16,8 @@ Cybersecurity professional specializing in OSINT, penetration testing, and digit
 ![](https://streak-stats.demolab.com/?user=Kunal-D-Droid&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kunal-D-Droid&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kunal-D-Droid&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kunal-D-Droid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Kunal-D-Droid&label=Profile%20Views&color=00ff00&style=flat)](https://visitcount.itsvg.in)
