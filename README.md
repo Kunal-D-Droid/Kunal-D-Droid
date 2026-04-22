@@ -22,7 +22,7 @@ Cybersecurity professional specializing in OSINT, penetration testing, and digit
 ![](https://github-contributor-stats.vercel.app/api?username=Kunal-D-Droid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kunal-D-Droid&icon=9&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Kunal-D-Droid&label=Profile%20Views&color=00ff00&style=flat)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunaldas) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KunalDas874) 
